@@ -172,3 +172,5 @@ cython_debug/
 
 # Ignore comparison figures 
 comparison_figs/
+
+logs/
