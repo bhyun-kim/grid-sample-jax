@@ -103,4 +103,4 @@ Contributions are welcome! If you have suggestions, bug reports, or improvements
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You’re free to use and modify it, but please retain the license and credit.
+This project is licensed under the [Apache 2.0 License](LICENSE). You’re free to use and modify it, but please retain the license and credit.
