@@ -24,7 +24,7 @@ from grid_sample_jax import grid_sample_jax
 #############################################################################
 
 BATCH_SIZES = [32, 64, 128]
-RESOLUTIONS = [64, 128, 256]
+RESOLUTIONS = [64, 128, 256, 512, 1024]
 MODES = ["nearest", "bilinear", "bicubic"]
 PADDING_MODES = ["zeros", "border", "reflection"]
 ALIGN_CORNERS = [False, True]
